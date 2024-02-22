@@ -1,8 +1,8 @@
-# React + Vite
+# CyberScent: Capstone Frontend Webapp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is my final capstone project. It's a simple website that utilizes React+Vite and is composed of 4 pages. 2 of which are interactive, the rest is a simple static page built in react.
 
-Currently, two official plugins are available:
+Once the backend server is running, you should be able to run this with the command "npm run dev"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/nutbarski/Capstone_Backend/tree/main <--- backend server link
+
